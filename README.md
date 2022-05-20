@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Lani</h1>
+<!-- <h1 align="center"> Hi, I'm Lani</h1> -->
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
