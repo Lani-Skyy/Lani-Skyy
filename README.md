@@ -5,7 +5,10 @@
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=Lani-Skyy&show_icons=true&hide_border=true&count_private=true&theme=material-palenight"/>
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Lani-Skyy&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=material-palenight"/>
+      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Lani-Skyy&show_icons=true&hide_border=true&count_private=true&theme=material-palenight"/>
+    </td>
+    <td>
+        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lani-Skyy&langs_count=10&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats"/>
     </td>
   </tr>
 </table>
